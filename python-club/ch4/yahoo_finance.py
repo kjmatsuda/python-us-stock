@@ -4,6 +4,8 @@ import time
 import numpy as np
 import yfinance as yf
 
+# test commit
+
 # settings
 fn = "ticker.txt"
 csv_fn = "data.csv"
