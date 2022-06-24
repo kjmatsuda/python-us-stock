@@ -4,7 +4,7 @@ import time
 import numpy as np
 import yfinance as yf
 
-# test commit
+# test commit. test commit2
 
 # settings
 fn = "ticker.txt"
